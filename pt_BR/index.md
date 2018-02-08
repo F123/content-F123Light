@@ -43,3 +43,8 @@
 @. Introduction-to-Partitions
 @. File-System
 @. Identifying-Disks-and-Partitions
+@. Disk-Formatting
+@. Introduction-to-git
+@. Git-Configuration
+@. Clone-and-Adding-Files
+@. Commit-Pull-and-Push
