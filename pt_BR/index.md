@@ -49,3 +49,4 @@
 @. Clone-and-Adding-Files
 @. Commit-Pull-and-Push
 @. Using-Screen
+@. Using-Sha1Sum
