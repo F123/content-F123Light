@@ -1,16 +1,17 @@
 ﻿# Index
 
 @. Installation-and-Execution-of-Fenrir
-@. Knowing-the-Computer
-@. Operational-System
-@. Concept-of-Archive
+@. First-Steps-With-Fenrir
+@. Knowing-the-Computer@. First-Steps-With-Fenrir
+@. Operating-System
+@. Archiving
 @. Check-Directory
 @. Create-File
 @. Change-Directory
 @. Create-Directory
 @. Install-Packages
 @. Introduction-to-Irssi
-@. Communication-in-Irssi
+@. Messaging-With-Irssi
 @. Edition-With-Nano
 @. Nano-Navigation
 @. View-File-Content
@@ -22,11 +23,11 @@
 @. Links-on-Markdown
 @. Convert-to-Markdown
 @. Manipulate-Files
-@. Compaction-With-Tar
-@. Compaction-With-Zip
+@. Compression-With-Tar
+@. Compression-With-Zip
 @. Using-Grep
-@. Protocol-Concept
-@. Server-Concept
+@. Protocols
+@. Servers
 @. Using-Rsync
 @. Using-SSH
 @. Using-Diff
@@ -38,7 +39,7 @@
 @. Using-Touch
 @. Advanced-Package-Management-Options
 @. Using-Alias
-@. Permission-Concept
+@. Permissions
 @. Assign-Permission
 @. Change-File-Owner
 @. Introduction-to-Partitions
@@ -47,9 +48,10 @@
 @. Disk-Formatting
 @. Introduction-to-git
 @. Git-Configuration
-@. Clone-and-Adding-Files
+@. Cloning-and-Adding-Files
 @. Commit-Pull-and-Push
 @. Using-Screen
 @. Using-Sha1Sum
 @. Custom-Mutt-Shortcuts
+@. Configure-Fenrir-From-The-Settings-File
 @. Configure-Fenrir-From-The-Command-Line
