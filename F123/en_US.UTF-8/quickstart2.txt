@@ -1,0 +1,9 @@
+
+This introduction will now allow you to easily configure your new system. For any questions which you do not know the answer for or would prefer to answer at another time, press the "Escape" key.
+
+For security reasons, we recommend that you start by changing the default  passwords to something that is actually secret.
+
+Start by changing the password you used to login. This password is also used  for administration tasks such as configuring your wireless network.
+
+To continue with the setup process, press the "Enter" key.
+
