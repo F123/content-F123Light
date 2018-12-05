@@ -1,0 +1,16 @@
+Welcome to the F123Light Operating System!
+
+Since this is the first time you start your computer with F123Light, we will share with you introductory information on the screen reader, as well as present a few questions which will help you configure your system.
+
+The screen reading software reading this text is called Fenrir. Many commands that control Fenrir involve a special key, which we call the Fenrir key. The Fenrir key is the "Insert" key on your numeric keypad, tipically found on the right of most full-size desktop keyboards.
+
+For example, holding down "Fenrir" and pressing the Up arrow will increase volume. "Fenrir+Down" will decrease volume. You can also use "Fenrir+Left" and "Fenrir+Right" to reduce and increase the speed at which Fenrir reads the screen to you.
+
+To read by line, you can use the 7, 8, and 9 keys on your numeric keypad.  Number 7 will read the previous line, 8 the current line, and 9 the next line.
+
+You may explore these and other commands without causing any changes to the computer by entering Fenrir's learn mode by pressing "Fenrir+H". After entering "Fenrir+H", you can press any key combination you desire and the computer  will describe its purpose. Once you press the "Escape" key, the screen will be  active again and any key combination you press will actually work.
+
+Feel free to try "Insert+H" now, if you wish to explore the keyboard without causing this screen to change.
+
+To move to the next screen, press either the enter or escape key. The "Escape" key or "ESC" key is usually located on the top left corner of the keyboard.
+
