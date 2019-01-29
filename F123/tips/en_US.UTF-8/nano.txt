@@ -1,0 +1,2 @@
+To spellcheck the current document, press F7.
+To save the current file and exit in the same command, press control+X.
